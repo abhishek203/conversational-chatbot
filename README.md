@@ -26,11 +26,13 @@
 - Saved the model in tflite model which can be interpreted in android studio.
 
 
-Link to app files from android studio
-<https://github.com/abhishek203/chatbot>
 #### Phase 4 : App making(2 weeks)
         
 - Learnt on android development.
 - Made a chat app for our project.
 - Did text preprocessing in java  using the tokens imported as json files.
 - Used tflite model to get the results.
+
+
+Link to app files from android studio
+<https://github.com/abhishek203/chatbot>
