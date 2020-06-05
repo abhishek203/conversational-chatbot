@@ -29,6 +29,7 @@
 - Did hyper parameter tuning and tried to get best results for the given dataset.
 - Saved the model in tflite model which can be interpreted in android studio.
 
+Link to different models I tried : <https://github.com/abhishek203/E-Abhishek>
 
 #### Phase 4 : App making(2 weeks)
         
