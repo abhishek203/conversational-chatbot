@@ -3,7 +3,7 @@
 
 #### Phase 1 : Learning Phase(3 weeks)
         
-I learnt basics of machine learning, implemented gradient descent in python and understood the concepts involved. 
+-I learnt basics of machine learning, implemented gradient descent in python and understood the concepts involved. 
 
 Learnt deep learning from online resources and textbooks. 
 
