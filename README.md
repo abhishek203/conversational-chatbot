@@ -1,5 +1,9 @@
 # Conversational-ChatBot
 
+<p align = "center">
+<img src = "/images/chatbot_screen.png" width = "200" height = "450"/>
+</p>
+
 
 #### Phase 1 : Learning Phase(3 weeks)
         
